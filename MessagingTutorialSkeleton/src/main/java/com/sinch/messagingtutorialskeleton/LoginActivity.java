@@ -79,8 +79,8 @@ public class LoginActivity extends Activity {
     private void startList() {
         final Intent intent = new Intent(getApplicationContext(), ListUserActivity.class);
         final Intent serviceIntent = new Intent(getApplicationContext(), MessageService.class);
-        startService(serviceIntent);
         startActivity(intent);
+        startService(serviceIntent);
         finish();
     }
 

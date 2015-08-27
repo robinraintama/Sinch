@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/classes-b4c8c1efc7b707b4b4e99793dfff4df76fed979e.jar" />
+    </item>
+    <item
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/libs/ParseCrashReporting-1.9.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4-d3ce4bfd37708f4d9e1abf979800cbe2bd657ed2.jar" />
+    </item>
+    <item
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/libs/sinch-android-rtc-3.6.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c29e42a729e108f4572076c1b2c66b56ebf7bae">
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.6.2-3d1d556be3d6a4011ff32241765b3326406897ea.jar" />
+    </item>
+    <item
         jar="/Users/Sola_MBP/Documents/Workshop/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-062146b2e1a45d6c590524f0fca70862626d55b8.jar" />
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-062146b2e1a45d6c590524f0fca70862626d55b8.jar" />
     </item>
     <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/libs/Parse-1.9.4.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/Parse-1.9.4-201e3e1340b01f42da2ccdb6fd044040772eca35.jar" />
-    </item>
-    <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/libs/ParseCrashReporting-1.9.4.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="7a11f2d74111fd9b02c2d091a1b76b82f6a4357e">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.4-8962b87cf2e1f61967c394335d0514ca5ffb42b2.jar" />
-    </item>
-    <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/libs/ParseFacebookUtilsV3-1.9.4.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="9ad88479eadea36956d1e9c67604c68cb1cc222d">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV3-1.9.4-4b8653a7219cc7592d79e482e1c4fa8b392cc0fc.jar" />
-    </item>
-    <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/classes-ce7c73488d032552cd241a784e43ff036ccb00f5.jar" />
-    </item>
-    <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/libs/sinch-android-rtc-3.6.2.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="2c29e42a729e108f4572076c1b2c66b56ebf7bae">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.6.2-5cceec4c05ce734ebb04db0eeaf33e1e191e1c73.jar" />
-    </item>
-    <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/libs/bolts-android-1.2.0.jar"
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/libs/bolts-android-1.2.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-3fba12b6ff430548b99fe5e1232bc5e6d8bbc9cb.jar" />
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-7eea8f6d40046660776351967e74d2fe9a696360.jar" />
     </item>
     <item
-        jar="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/Parse-1.9.4-9f72d67dbf761bab4f4553e2ff17da4c82733b16.jar" />
+    </item>
+    <item
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/Sola_MBP/Downloads/android-messaging-tutorial-skeleton-master/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-24c1ca2513474ff7e320449be0b63a06a278812d.jar" />
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-2f0ed581b49ac28d88364da8f1de58a98d96786e.jar" />
+    </item>
+    <item
+        jar="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/libs/ParseFacebookUtilsV3-1.9.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9ad88479eadea36956d1e9c67604c68cb1cc222d">
+        <dex dex="/Users/Sola_MBP/Github/Sinch/MessagingTutorialSkeleton/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV3-1.9.4-dbb195a52cb01fcab00d0068fc52719954684014.jar" />
     </item>
 
 </items>
